@@ -8,7 +8,6 @@ Un juego sencillo para sortear amigos secretos en grupo. Este proyecto consiste 
 - **Agregar nombres:** Permite ingresar nombres de amigos y almacenarlos en una lista.
 - **Sortear amigo:** Realiza un sorteo aleatorio entre los nombres ingresados y muestra el resultado.
 - **Resetear:** Limpia toda la lista y el resultado del sorteo.
-- **Interfaz amigable:** Diseño responsive con estilos modernos y feedback visual.
 
 ## Instalación
 
@@ -55,5 +54,3 @@ Un juego sencillo para sortear amigos secretos en grupo. Este proyecto consiste 
 - Permitir guardar y cargar listas de amigos.
 - Implementar un sistema de sonidos para el sorteo.
 - Añadir más interactividad con mensajes y feedback visual.
-
-Este proyecto es una base sólida que se puede expandir con más funcionalidades y personalizaciones según las necesidades del usuario.
